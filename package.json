@@ -1,18 +1,18 @@
 {
   "name": "{{name}}",
   "version": "0.0.0",
-  "description": "WIP - nothing to see here",
+  "description": "{{description}}",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/{{name}}.git"
+    "url": "https://github.com/joehand/{{name}}.git"
   },
-  "author": "Mathias Buus (@mafintosh)",
+  "author": "Joe Hand <joe@hand.email>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/{{name}}/issues"
+    "url": "https://github.com/joehand/{{name}}/issues"
   },
-  "homepage": "https://github.com/mafintosh/{{name}}"
+  "homepage": "https://github.com/joehand/{{name}}"
 }
